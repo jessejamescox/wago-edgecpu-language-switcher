@@ -9,3 +9,5 @@ dpkg-reconfigure keyboard-configuration
 mv ./locale.gen /etc/locale.gen
 /usr/sbin/locale-gen
 . /etc/default/locale
+
+rm -r /root/wago-edgecpu-language-switcher
