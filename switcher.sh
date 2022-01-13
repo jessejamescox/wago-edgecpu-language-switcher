@@ -11,3 +11,5 @@ mv ./wago-edgecpu-language-switcher/locale.gen /etc/locale.gen
 . /etc/default/locale
 
 rm -r /root/wago-edgecpu-language-switcher
+
+reboot
